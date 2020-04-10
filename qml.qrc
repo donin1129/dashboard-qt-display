@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RevStyle.qml</file>
+        <file>horse.png</file>
+        <file>carbonfiber_background.png</file>
+        <file>battery_illustration.png</file>
+        <file>brake_illustration.png</file>
+        <file>steering_wheel.png</file>
+    </qresource>
+</RCC>
